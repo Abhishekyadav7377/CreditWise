@@ -1,0 +1,48 @@
+{
+  "features": [
+    "Applicant_Income",
+    "Coapplicant_Income",
+    "Age",
+    "Dependents",
+    "Existing_Loans",
+    "Savings",
+    "Collateral_Value",
+    "Loan_Amount",
+    "Loan_Term",
+    "Education_Level",
+    "Employment_Status_Salaried",
+    "Employment_Status_Self-employed",
+    "Employment_Status_Unemployed",
+    "Marital_Status_Single",
+    "Loan_Purpose_Car",
+    "Loan_Purpose_Education",
+    "Loan_Purpose_Home",
+    "Loan_Purpose_Personal",
+    "Property_Area_Semiurban",
+    "Property_Area_Urban",
+    "Gender_Male",
+    "Employer_Category_Government",
+    "Employer_Category_MNC",
+    "Employer_Category_Private",
+    "Employer_Category_Unemployed",
+    "DTI_Ratio_sq",
+    "Credit_Score_sq"
+  ],
+  "mean": [
+    11040.445, 5069.03, 39.145, 1.43, 2.01625, 9968.925, 25318.03, 21141.8025, 47.85, 0.345, 0.455,
+    0.24625, 0.09375, 0.48875, 0.17875, 0.20375, 0.21875, 0.20625, 0.30125, 0.34375, 0.48875,
+    0.20375, 0.18, 0.19125, 0.2025, 0.133244, 457241.44375
+  ],
+  "scale": [
+    5263.78034, 2879.135264, 11.230827, 1.035664, 1.385094, 5697.870596, 14129.775866, 11329.451341,
+    24.149068, 0.475368, 0.497971, 0.430826, 0.291481, 0.499873, 0.383143, 0.402785, 0.413399,
+    0.404612, 0.458801, 0.474959, 0.499873, 0.402785, 0.384187, 0.393285, 0.401863, 0.099608,
+    96898.064162
+  ],
+  "coef": [
+    0.903179, -0.198508, -0.118969, -0.083766, -0.062514, -0.059072, 0.227099, -0.502045, -0.426092,
+    -0.146852, -0.043159, -0.085872, -0.409192, 0.095762, 0.140833, 0.246877, 0.026199, 0.019242,
+    0.199067, 0.026485, 0.230173, 0.003166, 0.235079, 0.132953, 0.006791, -2.209624, 3.726152
+  ],
+  "intercept": -1.800238
+}
